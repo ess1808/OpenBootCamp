@@ -2,6 +2,33 @@ h1  {
     color:blue;
 
 }
+/* cambiando colores del parrafo*/
 p{
-    color:red
+    color:red;
+    font-size:16pt;
+    
+}
+/*selectior de ID*/
+#primera-noticia{
+    color:green;
+    font-size: 12pt;
+}
+#segunda-noticia{
+    color:brown;
+    font-size: 14pt;
+}
+/*Selector de CLASE*/
+.encabezado{
+    color:cadetblue;
+    
+}
+/*SELECTOR universal*/
+*{
+    color:aqua;
+}
+*.warning{
+    color:yellow;
+}
+.autor .año{
+    color: chocolate;
 }
