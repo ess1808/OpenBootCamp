@@ -1,0 +1,16 @@
+/* Estilos de colores*/
+/* contraste de colores: https://coolors.co/  */
+.colores{
+    color:red;
+}
+.color-hexadecimal{
+    color:#53fbe2;
+}
+/*COLORES POR MEZCLA*/
+.color-rgb{
+    color: rgb(100,0, 200)
+}
+/*Color con OPACIDAD*/
+.color-rgba{
+    color:rgba(red, green, blue, 0.2)
+}
